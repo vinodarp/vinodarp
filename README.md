@@ -9,7 +9,7 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Professional Statement          | <a href="">Project</a>|
+| Professional Statement | <a href="">Project</a>|
 | Conducting Security Audit | <a href="">Project</a>|
 | Analyzing network structure and security | Project|
 | Using Linux commands to manage file permissions | Project|
@@ -19,7 +19,6 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 | Importing and parsing a text file in a security-related scenario | Project|
 
 ## Tools
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
