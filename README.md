@@ -1,7 +1,7 @@
 # Hello, I'm Vinicius
 <a href="https://linkedin.com/in/viniciusalprado"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Introduction
+## Brief Introduction
 
 I am finishing my bachelor's degree in Business and my professional course in Cybersecurity at google, with a profund interest in technology, dedication to solving complex problems and facing challenges. My journey in computer science led me to the desire to start a career in cybersecurity, I am initially looking for an opportunity as a Cybersecurity analyst.
 
@@ -9,13 +9,14 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Professional Statement          | <a href="">Project</a>|
+| Conducting Security Audit | <a href="">Project</a>|
+| Analyzing network structure and security | Project|
+| Using Linux commands to manage file permissions | Project|
+| Applying filters to SQL queries | Project|
+| Identifying vulnerabilities for a small business | Project|
+| Documenting incidents with an incident handler’s journal | Project|
+| Importing and parsing a text file in a security-related scenario | Project|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
