@@ -20,8 +20,7 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 
 ## Tools
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Hamachi-007DC5?&style=for-the-badge&logo=LogMeIn&logoColor=white" />
+<div> <img src="https://img.shields.io/badge/-Hamachi-007DC5?&style=for-the-badge&logo=LogMeIn&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1177AA?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </div>
 
 ### Programming Language
