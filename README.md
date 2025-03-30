@@ -11,7 +11,7 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 |-----------------------------------------------|----------------------------|
 | Game Server | <a href="https://github.com/vinodarp/professionalstatement/tree/main">Project</a>|
 | Conducting Security Audit | <a href="https://drive.google.com/file/d/1AeVYqtr6ao_wkCyUaO4lEP9i0cTBShAY/view?usp=sharing">Project</a>|
-| Analyzing network structure and security | Project|
+| Analyzing network structure and security | <a href="https://drive.google.com/file/d/1u20Li4XF6olqeiKnJBNeyUe07EoRP1Tx/view?usp=sharing">Project</a>|
 | Using Linux commands to manage file permissions | Project|
 | Applying filters to SQL queries | Project|
 | Identifying vulnerabilities for a small business | Project|
