@@ -14,8 +14,8 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 | Analyzing network structure and security | <a href="https://drive.google.com/file/d/1u20Li4XF6olqeiKnJBNeyUe07EoRP1Tx/view?usp=sharing">Project</a>|
 | Applying OS Hardening Techniques | Project|
 | Applying NIST Cybersecurity Framework | Project|
-| Using Linux commands to manage file permissions | Project|
-| Applying filters to SQL queries | Project|
+| Using Linux commands to manage file permissions | <a href="https://drive.google.com/file/d/1_oRPz-Lbj4LV1REYHS7NPTzw_8eZVk47/view?usp=sharing">Project</a>|
+| Applying filters to SQL queries | <a href="https://drive.google.com/file/d/1I5MHopd01lO0BSw4r-N6hbrt9Wx7Zvr7/view?usp=sharing">Project</a>|
 | Identifying vulnerabilities for a small business | Project|
 | Documenting incidents with an incident handler’s journal | Project|
 | Importing and parsing a text file in a security-related scenario | Project|
