@@ -12,8 +12,8 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 | Creating Game Server | <a href="https://github.com/vinodarp/professionalstatement/tree/main">Project</a>|
 | Conducting Security Audit | <a href="https://drive.google.com/file/d/1AeVYqtr6ao_wkCyUaO4lEP9i0cTBShAY/view?usp=sharing">Project</a>|
 | Analyzing network structure and security | <a href="https://drive.google.com/file/d/1u20Li4XF6olqeiKnJBNeyUe07EoRP1Tx/view?usp=sharing">Project</a>|
-| Applying OS Hardening Techniques | Project|
-| Applying NIST Cybersecurity Framework | Project|
+| Applying OS Hardening Techniques | <a href="https://drive.google.com/file/d/1RFlh7Z_eFCm6Bh5TejxWPhxCdvxBi88q/view?usp=sharing">Project</a>|
+| Applying NIST Cybersecurity Framework | <a href="https://drive.google.com/file/d/10Ju5qTLYAeOh5dUq2WFiwndZ4SIDWuJA/view?usp=sharing">Project</a>|
 | Using Linux commands to manage file permissions | <a href="https://drive.google.com/file/d/1_oRPz-Lbj4LV1REYHS7NPTzw_8eZVk47/view?usp=sharing">Project</a>|
 | Applying filters to SQL queries | <a href="https://drive.google.com/file/d/1I5MHopd01lO0BSw4r-N6hbrt9Wx7Zvr7/view?usp=sharing">Project</a>|
 | Identifying vulnerabilities for a small business | Project|
