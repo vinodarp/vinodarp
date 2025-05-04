@@ -30,7 +30,7 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
     <img src="https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=Java&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications in Progress
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
