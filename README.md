@@ -16,7 +16,7 @@ I am finishing my bachelor's degree in Business and my professional course in Cy
 | Applying NIST Cybersecurity Framework | <a href="https://drive.google.com/file/d/10Ju5qTLYAeOh5dUq2WFiwndZ4SIDWuJA/view?usp=sharing">Project</a>|
 | Using Linux commands to manage file permissions | <a href="https://drive.google.com/file/d/1_oRPz-Lbj4LV1REYHS7NPTzw_8eZVk47/view?usp=sharing">Project</a>|
 | Applying filters to SQL queries | <a href="https://drive.google.com/file/d/1I5MHopd01lO0BSw4r-N6hbrt9Wx7Zvr7/view?usp=sharing">Project</a>|
-| Identifying vulnerabilities for a small business | Project|
+| Identifying vulnerabilities for a small business | <a href="https://drive.google.com/file/d/1CnywpP7CM693f4sOcpWheGBTDLfmlCr1/view?usp=sharing">Project</a>|
 | Documenting incidents with an incident handler’s journal | Project|
 | Importing and parsing a text file in a security-related scenario | Project|
 
