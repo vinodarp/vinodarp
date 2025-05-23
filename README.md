@@ -13,7 +13,7 @@ Here are some of the technical skills I’ve developed and applied through hands
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating Game Server | <a href="https://github.com/vinodarp/professionalstatement/tree/main">Project</a>|
+| Game Server Management | <a href="https://github.com/vinodarp/professionalstatement/tree/main">Project</a>|
 | Conducting Security Audit | <a href="https://drive.google.com/file/d/1AeVYqtr6ao_wkCyUaO4lEP9i0cTBShAY/view?usp=sharing">Project</a>|
 | Analyzing network structure and security | <a href="https://drive.google.com/file/d/1u20Li4XF6olqeiKnJBNeyUe07EoRP1Tx/view?usp=sharing">Project</a>|
 | Applying OS Hardening Techniques | <a href="https://drive.google.com/file/d/1RFlh7Z_eFCm6Bh5TejxWPhxCdvxBi88q/view?usp=sharing">Project</a>|
