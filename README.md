@@ -1,9 +1,12 @@
 # Hello, I'm Vinicius
 <a href="https://linkedin.com/in/viniciusalprado"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+## About Me
 
-I am finishing my bachelor's degree in Business and my professional course in Cybersecurity at google, with a profund interest in technology, dedication to solving complex problems and facing challenges. My journey in computer science led me to the desire to start a career in cybersecurity, I am initially looking for an opportunity as a Cybersecurity analyst.
+I’m currently studying Business and completing the Google Cybersecurity Certificate. I have a strong interest in technology and problem-solving, and I’ve developed practical skills through hands-on labs and personal projects.
+
+My goal is to begin a career in IT or cybersecurity, working in support roles where I can apply what I’ve learned and grow professionally while helping teams stay secure and productive.
+
 
 ## Skills
 
