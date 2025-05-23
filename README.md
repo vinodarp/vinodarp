@@ -39,3 +39,12 @@ Here are some of the technical skills I’ve developed and applied through hands
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+---
+
+# 📫 Contact
+
+- 📍 Dublin, Ireland  
+- 📧 vinicius99ie@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/viniciusalprado)
+
