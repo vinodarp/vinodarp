@@ -15,7 +15,7 @@ Here are some of the technical skills I’ve developed and applied through hands
 |-----------------------------------------------|----------------------------|
 | Game Server Management | <a href="https://github.com/vinodarp/game-server-management-lab">Project</a> – Setup and maintenance of a multiplayer server with Java plugins, automation, and log analysis |
 | Conducting Security Audit | <a href="https://github.com/vinodarp/security-audit-lab">Project</a> – Simulated audit using NIST and PCI DSS controls to assess compliance and identify security gaps |
-| Analyzing network structure and security | <a href="https://drive.google.com/file/d/1u20Li4XF6olqeiKnJBNeyUe07EoRP1Tx/view?usp=sharing">Project</a>|
+Analyzing network structure and security | [Project](https://github.com/vinodarp/network-security-analysis-lab) – Network traffic inspection and anomaly detection using TCP/IP analysis |
 | Applying OS Hardening Techniques | <a href="https://drive.google.com/file/d/1RFlh7Z_eFCm6Bh5TejxWPhxCdvxBi88q/view?usp=sharing">Project</a>|
 | Applying NIST Cybersecurity Framework | <a href="https://drive.google.com/file/d/10Ju5qTLYAeOh5dUq2WFiwndZ4SIDWuJA/view?usp=sharing">Project</a>|
 | Using Linux commands to manage file permissions | <a href="https://drive.google.com/file/d/1_oRPz-Lbj4LV1REYHS7NPTzw_8eZVk47/view?usp=sharing">Project</a>|
