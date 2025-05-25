@@ -7,9 +7,7 @@ I’m currently studying Business and completing the Google Cybersecurity Certif
 
 My goal is to begin a career in IT or cybersecurity, working in support roles where I can apply what I’ve learned and grow professionally while helping teams stay secure and productive.
 
-Here are some of the technical skills I’ve developed and applied through hands-on practice:
-
-## Skills
+## Here are some of the technical skills I’ve developed and applied through hands-on practice
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
