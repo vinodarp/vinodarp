@@ -17,7 +17,7 @@ Here are some of the technical skills I’ve developed and applied through hands
 | Conducting Security Audit | <a href="https://github.com/vinodarp/security-audit-lab">Project</a> – Simulated audit using NIST and PCI DSS controls to assess compliance and identify security gaps |
 Analyzing network structure and security | [Project](https://github.com/vinodarp/network-security-analysis-lab) – Network traffic inspection and anomaly detection using TCP/IP analysis |
 | Applying OS Hardening Techniques | [Project](https://github.com/vinodarp/os-hardening-security-incident-lab) – Security incident response applying OS configuration best practices |
-| Applying NIST Cybersecurity Framework | <a href="https://drive.google.com/file/d/10Ju5qTLYAeOh5dUq2WFiwndZ4SIDWuJA/view?usp=sharing">Project</a>|
+| Applying NIST Cybersecurity Framework | [Project](https://github.com/vinodarp/nist-cybersecurity-framework-lab) – DDoS incident analysis using NIST functions: Identify, Protect, Detect, Respond, and Recover |
 | Using Linux commands to manage file permissions | <a href="https://drive.google.com/file/d/1_oRPz-Lbj4LV1REYHS7NPTzw_8eZVk47/view?usp=sharing">Project</a>|
 | Applying filters to SQL queries | <a href="https://drive.google.com/file/d/1I5MHopd01lO0BSw4r-N6hbrt9Wx7Zvr7/view?usp=sharing">Project</a>|
 | Identifying vulnerabilities for a small business | <a href="https://drive.google.com/file/d/1CnywpP7CM693f4sOcpWheGBTDLfmlCr1/view?usp=sharing">Project</a>|
