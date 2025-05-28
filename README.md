@@ -20,6 +20,7 @@ Analyzing network structure and security | [Project](https://github.com/vinodarp
 | Applying filters to SQL queries | [Project](https://github.com/vinodarp/sql-filtering-lab) – SQL-based filtering to analyze login attempts, sort access data, and exclude non-IT users during security reviews |
 | Identifying vulnerabilities for a small business | [Project](https://github.com/vinodarp/vulnerability-assessment-small-business-lab) – Vulnerability assessment using NIST 800-30 to analyze business risks and mitigation strategies |
 | Incident Handler’s Journal | [Project](https://github.com/vinodarp/incident-handlers-journal-log) – Analysis of 3 real-world incidents using the 5W framework to report, investigate, and reflect on threats and mitigation |
+| Analyzing logs with Splunk | [Project](https://github.com/vinodarp/splunk-log-analysis-lab) – Search, investigate, and extract insights from indexed log data using Splunk Cloud |
 | Importing and parsing a text file in a security-related scenario | Project|
 
 ## Tools
