@@ -19,13 +19,12 @@ Analyzing network structure and security | [Project](https://github.com/vinodarp
 | Using Linux commands to manage file permissions | [Project](https://github.com/vinodarp/linux-file-permissions-lab) – Hands-on practice with Linux file permissions using chmod, chown, and user/group management for cybersecurity tasks</a> |
 | Applying filters to SQL queries | [Project](https://github.com/vinodarp/sql-filtering-lab) – SQL-based filtering to analyze login attempts, sort access data, and exclude non-IT users during security reviews |
 | Identifying vulnerabilities for a small business | [Project](https://github.com/vinodarp/vulnerability-assessment-small-business-lab) – Vulnerability assessment using NIST 800-30 to analyze business risks and mitigation strategies |
-| Documenting incidents with an incident handler’s journal | Project|
+| Incident Handler’s Journal | [Project](https://github.com/vinodarp/incident-handlers-journal-log) – Analysis of 3 real-world incidents using the 5W framework to report, investigate, and reflect on threats and mitigation |
 | Importing and parsing a text file in a security-related scenario | Project|
 
 ## Tools
 ### Network
-<div> <img src="https://img.shields.io/badge/-Hamachi-007DC5?&style=for-the-badge&logo=LogMeIn&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1177AA?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
-</div>
+<div> <img src="https://img.shields.io/badge/-Hamachi-007DC5?&style=for-the-badge&logo=LogMeIn&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark-1177AA?&style=for-the-badge&logo=Wireshark&logoColor=white"/><div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></div> 
 
 ### Programming Language
 <div>
@@ -45,4 +44,3 @@ Analyzing network structure and security | [Project](https://github.com/vinodarp
 - 📍 Dublin, Ireland  
 - 📧 vinicius99ie@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/viniciusalprado)
-
