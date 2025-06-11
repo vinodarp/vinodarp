@@ -21,7 +21,7 @@ Analyzing network structure and security | [Project](https://github.com/vinodarp
 | Identifying vulnerabilities for a small business | [Project](https://github.com/vinodarp/vulnerability-assessment-small-business-lab) – Vulnerability assessment using NIST 800-30 to analyze business risks and mitigation strategies |
 | Incident Handler’s Journal | [Project](https://github.com/vinodarp/incident-handlers-journal-lab) – Analysis of 3 real-world incidents using the 5W framework to report, investigate, and reflect on threats and mitigation |
 | Analyzing logs with Splunk | [Project](https://github.com/vinodarp/splunk-log-analysis-lab) – Search, investigate, and extract insights from indexed log data using Splunk Cloud |
-| Importing and parsing a text file in a security-related scenario | Project|
+| Importing and parsing a text file in a security-related scenario | [Project](https://github.com/vinodarp/importing-parsing-python-lab) – Python script that reads, filters, and updates IP lists by removing blocked addresses from a removal file |
 
 ## Tools
 ### Network
