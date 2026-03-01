@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m currently studying Business and recently completed the Google Cybersecurity Certificate. I have a strong interest in technology and problem-solving, and I’ve developed practical skills through hands-on labs and personal projects.
+I’m currently in the final year of a Bachelor of Arts (Hons) in Business and have a Google Cybersecurity Certificate. I have professional experience in administration, IT support, and customer service, and I’m passionate about technology, problem-solving, and applying business knowledge to real-world challenges. I’ve developed practical skills through hands-on labs, personal projects, and professional experience across Brazil and Ireland.
 
 My goal is to begin a career in IT or Cybersecurity, working in support roles where I can apply what I’ve learned and grow professionally while helping teams stay secure and productive.
 
